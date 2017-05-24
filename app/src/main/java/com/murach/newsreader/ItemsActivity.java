@@ -78,12 +78,12 @@ implements OnItemClickListener {
 
         // set the title for the feed
         titleTextView.setText(feed.getTitle());
-        
+
         // get the items for the feed
         ArrayList<RSSItem> items = feed.getAllItems();
 
         // create a List of Map<String, ?> objects
-        ArrayList<HashMap<String, String>> data = 
+        ArrayList<HashMap<String, String>> data =
                 new ArrayList<HashMap<String, String>>();
         for (RSSItem item : items) {
             HashMap<String, String> map = new HashMap<String, String>();
@@ -91,17 +91,17 @@ implements OnItemClickListener {
             map.put("title", item.getTitle());
             data.add(map);
         }
-        
-        // create the resource, from, and to variables 
+
+        // create the resource, from, and to variables
         int resource = R.layout.listview_item;
         String[] from = {"date", "title"};
         int[] to = {R.id.pubDateTextView, R.id.titleTextView};
 
         // create and set the adapter
-        SimpleAdapter adapter = 
+        SimpleAdapter adapter =
             new SimpleAdapter(this, data, resource, from, to);
         itemsListView.setAdapter(adapter);
-        
+
         Log.d("News reader", "Feed displayed");
     }
 

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/home/stephanie/.android/build-cache/ee967d316e09d70c988eb0d5318b19a5ba35c72f/output/assets"/></dataSet><dataSet config="main"><source path="/home/stephanie/Projects/Personal/Daniel/android/hw7/app/src/main/assets"/><source path="/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/stephanie/Projects/Personal/Daniel/android/hw7/app/src/debug/assets"/></dataSet></merger>

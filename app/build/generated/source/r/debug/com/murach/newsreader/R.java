@@ -27,7 +27,8 @@ public final class R {
     public static final class layout {
         public static final int activity_item=0x7f030000;
         public static final int activity_items=0x7f030001;
-        public static final int listview_item=0x7f030002;
+        public static final int fragment_items=0x7f030002;
+        public static final int listview_item=0x7f030003;
     }
     public static final class menu {
         public static final int activity_item_2=0x7f070000;
@@ -35,14 +36,15 @@ public final class R {
     }
     public static final class string {
         public static final int app_name=0x7f050000;
-        public static final int item_description=0x7f050001;
-        public static final int item_link=0x7f050002;
-        public static final int item_pub_date=0x7f050003;
-        public static final int item_title=0x7f050004;
-        public static final int items_title=0x7f050005;
-        public static final int loading=0x7f050006;
-        public static final int menu_refresh=0x7f050007;
-        public static final int menu_settings=0x7f050008;
+        public static final int hello_blank_fragment=0x7f050001;
+        public static final int item_description=0x7f050002;
+        public static final int item_link=0x7f050003;
+        public static final int item_pub_date=0x7f050004;
+        public static final int item_title=0x7f050005;
+        public static final int items_title=0x7f050006;
+        public static final int loading=0x7f050007;
+        public static final int menu_refresh=0x7f050008;
+        public static final int menu_settings=0x7f050009;
     }
     public static final class style {
         public static final int AppTheme=0x7f060000;

@@ -1,0 +1,7 @@
+#Tue May 23 18:30:32 PDT 2017
+base.0=/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_08c81cb1dd31083d2ec8aa1ec3b1ab070a732023
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_90c376b201c563c5f6aaf6603c75f3dcb5432954/classes.dex
+base.1=/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_90c376b201c563c5f6aaf6603c75f3dcb5432954
+file.0=/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_08c81cb1dd31083d2ec8aa1ec3b1ab070a732023/classes.dex
