@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/res/merged/debug/menu/activity_item_2.xml",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/src/main/res/menu/activity_item_2.xml"
+    },
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/res/merged/debug/menu/activity_items.xml",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/src/main/res/menu/activity_items.xml"
+    }
+]

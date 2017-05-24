@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/res/merged/debug/layout/listview_item.xml",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/src/main/res/layout/listview_item.xml"
+    },
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/res/merged/debug/layout/activity_item.xml",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/src/main/res/layout/activity_item.xml"
+    },
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/build/intermediates/res/merged/debug/layout/activity_items.xml",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw7/app/src/main/res/layout/activity_items.xml"
+    }
+]
